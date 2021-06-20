@@ -2,5 +2,5 @@
 
 ## Como usar componentes para gerar animações:
 
-### AnimationBuilder, Animaiton, Tween, etc.
+### AnimationBuilder, Animation, Tween, etc.
 
